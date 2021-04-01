@@ -32,10 +32,9 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/XSHMAqBYil.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 This small project was a big challenge because I had little familiarity with Xcode and Swift prior to attempting this pre-work.
-It was a good learning experience.
+I would say that adding contrains and making sure that the elements lined up correctly was a tideous task.
+
 ## License
 
     Copyright [2021] [Luis Brito]
